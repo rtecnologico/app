@@ -1,5 +1,2 @@
-<script>
+window.document.write("Sem limpar…"); 
 
-	window.document.write("Sem limpar…"); 
-
-</script>
