@@ -1,1 +1,1 @@
-var teste = "teste";
+alert("Passou!");
