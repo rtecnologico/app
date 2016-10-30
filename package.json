@@ -7,12 +7,14 @@
     "type": "git",
     "url": "https://github.com/rtecnologico/app"
   },
-  
+  "license": "MIT",
   "dependencies": {
    
   },
   "scripts": {
     "start": "node index.html"
   },
-  
+  "engines": {
+    "node": ">=4.3"
+  }
 }
