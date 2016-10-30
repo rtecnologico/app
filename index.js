@@ -1,1 +1,5 @@
-alert("Passou!");
+<script>
+
+	window.document.write("Sem limpar…"); 
+
+</script>
